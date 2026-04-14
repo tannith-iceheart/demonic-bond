@@ -1,4 +1,12 @@
-
+---
+title: About the System - Road Map
+draft: false
+tags:
+  - roadmap
+  - misk
+---
+<i><font color="#595959"> ~ </font></i>
+---
 
 ---
 Welcome to the MISK system! We hope that your stay here is welcoming and inciteful, if you have any questions about it please feel free to ask! 

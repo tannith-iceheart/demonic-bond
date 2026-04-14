@@ -1,3 +1,13 @@
+---
+title: 03-31-26 ♦ Journal - 'A Libra'
+draft: false
+tags:
+  - journaling
+  - writing
+  - entry
+---
+<i><font color="#595959"> ~ </font></i>
+---
 <font color="#595959">An interesting observation~ 03-31-26</font>
 
 ---

@@ -1,3 +1,13 @@
+---
+title: Red
+draft: false
+tags:
+  - alter
+  - misk
+---
+<i><font color="#595959"> ~ </font></i>
+---
+
 aka: Equinox / Nox
 Color: 930a03 <font color="#930a03">♦♦♦</font>
 

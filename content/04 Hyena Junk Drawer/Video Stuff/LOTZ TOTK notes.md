@@ -1,4 +1,14 @@
-
+---
+title: LOTZ TOTK notes
+draft: false
+tags:
+  - notes
+  - youtube
+  - opinion
+  - junk
+---
+<i><font color="#595959"> ~ </font></i>
+---
 
 
 Include the harp / music stuff somewhere, non present in TOTK / BOTW

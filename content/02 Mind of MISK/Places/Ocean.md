@@ -1,4 +1,12 @@
-
+---
+title: Ocean
+draft: false
+tags:
+  - place
+  - misk
+---
+<i><font color="#595959"> ~ </font></i>
+---
 (imported from Milanote - unedited)
 
 There isn't much to say about the ocean. It has two major sections shallow and deep.

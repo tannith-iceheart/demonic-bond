@@ -1,5 +1,12 @@
+---
+title: Making My Own Tarot Deck
+draft: false
+tags:
+  - project
+  - witchcraft
+  - notes
+---
 <i><font color="#595959">My journey into making my own tarot~</font></i>
-
 ---
 
 Note: this creation is made to be different than normal tarot, I will be learning the regular definitions and names, however I will be substituting some for the sake of connection.

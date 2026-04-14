@@ -1,3 +1,13 @@
+---
+title: Energy Work - Study
+draft: false
+tags:
+  - study
+  - witchcraft
+  - notes
+---
+<i><font color="#595959"> ~ </font></i>
+---
 <i><font color="#595959">notes from a learning witch...</font></i>
 
 ---

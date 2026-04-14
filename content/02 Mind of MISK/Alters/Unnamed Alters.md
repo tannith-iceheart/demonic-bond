@@ -1,3 +1,13 @@
+---
+title: Unnamed Alters
+draft: false
+tags:
+  - alter
+  - misk
+---
+<i><font color="#595959"> ~ </font></i>
+---
+
 There are a few unnamed alters, before they decide on a name they get their description and color here. 
 
 ---

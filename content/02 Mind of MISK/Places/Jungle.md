@@ -1,4 +1,12 @@
-
+---
+title: Jungle
+draft: false
+tags:
+  - place
+  - misk
+---
+<i><font color="#595959"> ~ </font></i>
+---
 (imported from Milanote - unedited)
 
 The jungle is one of the first sections that was "discovered" or made in Misk. Unfortunately it was also one of the first sections forgotten.

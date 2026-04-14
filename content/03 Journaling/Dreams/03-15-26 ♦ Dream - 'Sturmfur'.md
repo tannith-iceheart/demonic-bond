@@ -1,4 +1,13 @@
-
+---
+title: 03-15-26 ♦ Dream - 'Sturmfur'
+draft: false
+tags:
+  - journaling
+  - writing
+  - dream
+---
+<i><font color="#595959"> ~ </font></i>
+---
 ---
 *This dream was written the day after, some details may be lost or misinterpreted.*
 

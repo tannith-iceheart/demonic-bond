@@ -1,3 +1,14 @@
+---
+title: Personal Core - Self Study
+draft: false
+tags:
+  - study
+  - abt-ich
+  - witchcraft
+---
+<i><font color="#595959"> ~ </font></i>
+---
+
 <i><font color="#595959">A list of things that make me, me. A reminder about where my energy comes from.</font></i>
 
 ---

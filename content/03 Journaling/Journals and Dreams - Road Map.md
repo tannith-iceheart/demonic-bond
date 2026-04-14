@@ -1,4 +1,13 @@
-
+---
+title: Journals and Dreams - Road Map
+draft: false
+tags:
+  - roadmap
+  - journaling
+  - dream
+---
+<i><font color="#595959"> ~ </font></i>
+---
 ---
 
 This is the section where I have my journals, a digital diary if you will. I recount old events, talk about traumas, write about new happenings in my life, and journal dreams that I have.

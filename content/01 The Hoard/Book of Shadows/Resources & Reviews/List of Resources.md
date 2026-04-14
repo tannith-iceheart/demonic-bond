@@ -1,4 +1,11 @@
-<i><font color="#595959">A list of all the things I have taken notes from, and what they relate to </font></i>
+---
+title: List of Resources
+draft: false
+tags:
+  - links
+  - witchcraft
+---
+<i><font color="#595959">A list of all the things I have taken notes from, and what they relate to</font></i>
 
 ---
 

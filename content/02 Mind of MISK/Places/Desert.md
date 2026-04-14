@@ -1,4 +1,12 @@
-
+---
+title: Desert
+draft: false
+tags:
+  - place
+  - misk
+---
+<i><font color="#595959"> ~ </font></i>
+---
 (imported from Milanote - unedited)
 
 The desert is a very very large area with not a lot in it. It's very open ended and allows for travel from any part of Misk. The initial idea for creation was a large space to hold information, and allow other alters to know / interact with that information

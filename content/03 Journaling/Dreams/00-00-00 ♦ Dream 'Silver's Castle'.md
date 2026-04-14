@@ -1,3 +1,14 @@
+---
+title: 00-00-00 ♦ Dream 'Silver's Castle'
+draft: false
+tags:
+  - journaling
+  - writing
+  - dream
+---
+<i><font color="#595959"> ~ </font></i>
+---
+
 "There is something in the center"
 
 What's in the middle? I blinked and I'm here now, what is this place, oh. is this everyone?

@@ -3,6 +3,7 @@ title: Witchcraft - Road Map
 draft: false
 tags:
   - roadmap
+  - witchcraft
 ---
 <i><font color="#595959">Some information to keep in mind going forward</font></i>
 

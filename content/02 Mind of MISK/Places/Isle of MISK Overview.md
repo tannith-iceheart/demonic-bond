@@ -1,7 +1,11 @@
 ---
-
+title: Isle of MISK Overview
+draft: false
+tags:
+  - place
+  - misk
 ---
-
+<i><font color="#595959"> ~ </font></i>
 ---
 
 Misk is still being explored, and it is very difficult to get information from the far reaches of misk to the waking world. The names of places, people who inhabit them, and how many places there are will change as new information is found.

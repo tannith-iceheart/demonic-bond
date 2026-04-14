@@ -1,4 +1,12 @@
-
+---
+title: Center Castle
+draft: false
+tags:
+  - place
+  - misk
+---
+<i><font color="#595959"> ~ </font></i>
+---
 (imported from Milanote - unedited)
 
 The Center Castle is probably the most detailed part of misk. It is a massive city sized building that has multiple entrances. Some of those are open to enter, some are locked by key, and others locked by force (Silver would have to open them)

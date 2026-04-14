@@ -1,4 +1,12 @@
-
+---
+title: City
+draft: false
+tags:
+  - place
+  - misk
+---
+<i><font color="#595959"> ~ </font></i>
+---
 (imported from Milanote - unedited)
 
 The city is absolutely massive, and honestly a lot like the jungle in function. The alters that don't seem to have set homes seem to show up here most often.
