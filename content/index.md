@@ -26,8 +26,8 @@ Not sure where to start? Here are some suggestions~
 **Current Projects** 
 - [[Making my Tarot Deck]]
 	- My journey into making my personal Tarot centered around my kin / therio -types and balance
-- [[About the System - Road Map]]
-	- Currently working on filling out profiles for the alters that can visit front room
+- [[Upgrading Firefly - My Honda Accord]] - Title WIP lol
+	- The process of me adding stuff to my honda to make it feel better, and plans I have for his future :)
 
 **About Me~**
 - [[About the System - Road Map]]
