@@ -7,9 +7,10 @@ tags:
 ---
 <i><font color="#595959">Some information to keep in mind going forward</font></i>
 
+---
 A table of contents for everything that I have been studying, If it doesn't have a link yet it means I'm working on adding it :)
 
-See bottom of page for notes if you haven't seen [[!Read Me Please! - A Magpies Road Map]]
+See bottom of page for notes~
 
 Notice: At the time of writing I am **very new** to witchcraft and spirituality, if something is offensive **please tell me**, I probably do not know as I am still in the process of learning. Any and all tips and comments are welcome! 
 

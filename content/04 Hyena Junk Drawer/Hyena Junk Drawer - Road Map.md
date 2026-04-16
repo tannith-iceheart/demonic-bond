@@ -6,11 +6,17 @@ tags:
   - junk
 ---
 <i><font color="#595959"> ~ </font></i>
+
 ---
 This is just where I put all the other stuff, scrap ideas and useful tools. Stuff that doesn't really qualify for a whole category / road map to be made for it~
 
 ---
 
+[[Copy and Pastes]]
+- [[Alter Page Template]]
+
 YT Notes & Scripts
-[[LOTZ TOTK notes]]
+- [[LOTZ TOTK notes]]
+
+
 

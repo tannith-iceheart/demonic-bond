@@ -8,9 +8,8 @@ tags:
   - junk
 ---
 <i><font color="#595959"> ~ </font></i>
+
 ---
-
-
 Include the harp / music stuff somewhere, non present in TOTK / BOTW
 
 have a warning - "Keep in mind that this is if  they had infinite money and full control, this is not a video about the ethics of making games or the horrible crunch I'm sure people had to go through to make it, we are talking purely about the game contents here."

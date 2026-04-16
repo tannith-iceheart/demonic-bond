@@ -7,6 +7,7 @@ tags:
   - entry
 ---
 <i><font color="#595959"> ~ </font></i>
+
 ---
 
 <font color="#595959">a reminder that things are always what you think they are. 03-16-26</font>

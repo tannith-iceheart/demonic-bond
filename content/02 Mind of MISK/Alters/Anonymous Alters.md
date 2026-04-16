@@ -6,6 +6,7 @@ tags:
   - misk
 ---
 <i><font color="#595959"> ~ </font></i>
+
 ---
 Anonymous alters are alters who prefer to be anonymous in relation to specific notes or writings, but have a known name / description, or identity within the system. We felt the need to make a distinction about the difference of anon and unnamed for journaling purposes
 

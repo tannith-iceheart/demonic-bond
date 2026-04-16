@@ -8,7 +8,6 @@ tags:
 ---
 <i><font color="#595959"> ~ </font></i>
 ---
----
 
 This is the section where I have my journals, a digital diary if you will. I recount old events, talk about traumas, write about new happenings in my life, and journal dreams that I have.
 
@@ -18,7 +17,7 @@ This part is very personal, I do have some journals on a private obsidian becaus
 
 ---
 
-Am I missing a CW? Contact me -> Bluesky Email Comments
+Am I missing a CW? Contact me -> [Discord](https://discordapp.com/users/779375320930844694) [Email](mailto:iceheart@demonic.bond) [Bluesky](https://bsky.app/profile/tannith.demonic.bond) 
 
 ---
 
@@ -31,6 +30,7 @@ Note: For the time being dreams and Journals share the same page, in the future 
 
 
 **Journals**
+[[01-24-26 ♦ Journal - 'A Second Life']]
 03-16-26 ♦ Journal - 'The Cat Named Hummingbird'
 [[03-16-26 ♦ Journal - 'Its Snowing']]
 [[03-31-26 ♦ Journal - 'A Libra']]

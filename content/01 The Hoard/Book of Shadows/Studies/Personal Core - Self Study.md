@@ -6,13 +6,9 @@ tags:
   - abt-ich
   - witchcraft
 ---
-<i><font color="#595959"> ~ </font></i>
----
-
 <i><font color="#595959">A list of things that make me, me. A reminder about where my energy comes from.</font></i>
 
 ---
-
 This page was massively improved with suggestions from ['Rebel Witch' by: Kelly-Ann Maddox]([Kelly-Ann Maddox](https://www.goodreads.com/author/show/14815961.Kelly_Ann_Maddox)) I highly suggest giving it a read!
 
 ##### Tools and Rituals I feel a connection to:

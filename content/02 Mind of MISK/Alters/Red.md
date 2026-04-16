@@ -6,26 +6,26 @@ tags:
   - misk
 ---
 <i><font color="#595959"> ~ </font></i>
----
 
-aka: Equinox / Nox
-Color: 930a03 <font color="#930a03">♦♦♦</font>
-
----
-### Basic Overview
-
-|                        |                           |
-| ---------------------- | ------------------------- |
-| Gender                 | Male (He / Him)           |
-| [[Alter Roles\|Roles]] | Co-Host & Active Guardian |
-| Species                | Poltergeist or Vampire    |
-| Age                    | 17                        |
-| Location               | Late [[City]]             |
+| AKA      | Equinox / Nox / Red                         |
+| -------- | ------------------------------------------- |
+| Color    | <font color="#930a03">♦♦♦ Hex#930a03</font> |
+| Gender   | Male (He/Him)                               |
+| Roles    | Co-Host & Active Guardian                   |
+| Species  | Poltergeist or Vampire                      |
+| Age      | 17                                          |
+| Location | [[City]]                                    |
+*remember to check [[My Personal Plural Definitions]] if you are confused*
 
 ---
-### Trigger Info
+### Front Pull
 
-Red is the co-host (or host, depending on the day) so to call them to front all it takes is them being mentioned in conversation. Otherwise they will take over when they want to experience something, Crow calls on them, or a situation starts feeling unsafe.
+Red is the co-host (or host, depending on the day) so to call them to front all it takes is them being mentioned in conversation. Otherwise they will take over when they want to experience something, Crow calls on them, or a situation starts feeling unsafe. 
+
+---
+### Role Specifics
+
+How said alter fills or handles their role/roles
 
 ---
 ### Appearances

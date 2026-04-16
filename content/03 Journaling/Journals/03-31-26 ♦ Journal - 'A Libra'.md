@@ -6,8 +6,6 @@ tags:
   - writing
   - entry
 ---
-<i><font color="#595959"> ~ </font></i>
----
 <font color="#595959">An interesting observation~ 03-31-26</font>
 
 ---

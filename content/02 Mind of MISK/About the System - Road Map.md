@@ -6,7 +6,6 @@ tags:
   - misk
 ---
 <i><font color="#595959"> ~ </font></i>
----
 
 ---
 Welcome to the MISK system! We hope that your stay here is welcoming and inciteful, if you have any questions about it please feel free to ask! 
@@ -15,16 +14,19 @@ Welcome to the MISK system! We hope that your stay here is welcoming and incitef
 
 IMPORTANT NOTICE: a lot of this stuff is old and I haven't read through it all yet, some stuff is going to feel weird / be removed or changed / be wrong in general. I have a lot of projects I am working on so this stuff takes time to edit!
 
-TODO: Combine [[Alter Roles]] and [[How Alters Are Defined]] into this doc
+TODO: 
+- Combine [[Alter Roles]] and [[How Alters Are Defined]] into this doc
+- Add a definitions / terms page
+	- added here [[My Personal Plural Definitions]] (not done)
 
 ---
 #### Alter Descriptions 
-[[How Alters Are Defined]]
+[[My Personal Plural Definitions]]
 [[Unnamed Alters]]
 [[Anonymous Alters]]
 
 [[Red]]
-[[Crow]]
+[[Angel]]
 [[Pendragon]]
 [[Dune]]
 [[Trynk]]
@@ -45,7 +47,3 @@ TODO: Combine [[Alter Roles]] and [[How Alters Are Defined]] into this doc
 [[Pocket Dimension]]
 
 ---
-#### Other Definitions
-
-[[Alter Roles]]
-[[Alter About]]

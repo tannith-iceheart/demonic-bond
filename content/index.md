@@ -1,11 +1,10 @@
 ---
-title: "!Read Me Please! - A Magpies Road Map"
+title: A Magpies Road Map
 draft: false
 tags:
   - roadmap
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+---
 Hello! Welcome to whatever I have decided to call this space~ 
 
 If you are interested in a specific topic of mine, I would recommend reading the "Road map" related to it first. Every major category has a road map that lists all the sub categories and projects out. 
@@ -27,6 +26,8 @@ Not sure where to start? Here are some suggestions~
 **Current Projects** 
 - [[Making my Tarot Deck]]
 	- My journey into making my personal Tarot centered around my kin / therio -types and balance
+- [[About the System - Road Map]]
+	- Currently working on filling out profiles for the alters that can visit front room
 
 **About Me~**
 - [[About the System - Road Map]]
@@ -47,9 +48,9 @@ Other Road Maps
 - [[Hyena Junk Drawer - Road Map]]
 
 
-Questions or Comments?
-- [[Comments Page]] (not yet implemented)
-- Bluesky -> [@tannith.demonic.bond](https://bsky.app/profile/tannith.demonic.bond)
+Questions or Comments? <i><font color="#595959">In order of most checked~</font></i>
+- Discord -> [tannith_hyena](https://discordapp.com/users/779375320930844694) 
 - Reddit -> [u/The_Silent_Dragon](https://www.reddit.com/user/The_Silent_Dragon/)
-- Tumblr -> [@amalgalacrum](https://www.tumblr.com/blog/amalgalacrum)
 - Email -> iceheart@demonic.bond
+- Bluesky -> [@tannith.demonic.bond](https://bsky.app/profile/tannith.demonic.bond)
+- Tumblr -> [@amalgalacrum](https://www.tumblr.com/blog/amalgalacrum)

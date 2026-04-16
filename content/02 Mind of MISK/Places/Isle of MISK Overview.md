@@ -6,8 +6,8 @@ tags:
   - misk
 ---
 <i><font color="#595959"> ~ </font></i>
----
 
+---
 Misk is still being explored, and it is very difficult to get information from the far reaches of misk to the waking world. The names of places, people who inhabit them, and how many places there are will change as new information is found.
 
 Overall though, the main island is a circle separated into "slices" of territories. the north-east corner is a large patch of [[Desert]], under that an massive [[City]]. What is directly north is currently unknown, north-west (mostly west) is a large [[Jungle]]. There are caves somewhere, but its unsure if that is under all of misk or just a section of it. directly south is also a mystery. South west is an [[Ocean]].

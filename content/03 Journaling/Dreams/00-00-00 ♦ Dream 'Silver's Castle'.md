@@ -7,6 +7,7 @@ tags:
   - dream
 ---
 <i><font color="#595959"> ~ </font></i>
+
 ---
 
 "There is something in the center"
