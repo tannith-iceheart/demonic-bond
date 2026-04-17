@@ -24,3 +24,6 @@ What I think I need (see [R1](https://www.youtube.com/watch?v=XNFuGQzwUq4)):
 - bleed resistant painters tape / plastic tarp
 
 Notes: Sand in cross hatch pattern
+
+04-17-26:
+[[04-17-26 ♦ Journal - 'Never Catch a Break']] - Need to change firefly's tires, that will be done tomorrow probably
