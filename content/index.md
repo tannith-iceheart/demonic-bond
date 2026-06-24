@@ -5,6 +5,8 @@ tags:
   - roadmap
 ---
 ---
+A/N: The site is undergoing a lot of organizing atm, things may not make sense-
+
 Hello! Welcome to whatever I have decided to call this space~ 
 
 If you are interested in a specific topic of mine, I would recommend reading the "Road map" related to it first. Every major category has a road map that lists all the sub categories and projects out. 
