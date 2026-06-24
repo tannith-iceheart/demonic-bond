@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "A Magpies Grimoire",
-    pageTitleSuffix: "Made and Updated with Quartz & Obsidian~",
+    pageTitle: "The Grimoire",
+    pageTitleSuffix: "test",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
