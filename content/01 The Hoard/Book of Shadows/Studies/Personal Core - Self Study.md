@@ -11,6 +11,13 @@ tags:
 ---
 This page was massively improved with suggestions from ['Rebel Witch' by: Kelly-Ann Maddox]([Kelly-Ann Maddox](https://www.goodreads.com/author/show/14815961.Kelly_Ann_Maddox)) I highly suggest giving it a read!
 
+My Dream:
+
+The end goal of where I want to be later in life. For the past year ish I have been dreaming of and planning to buy and build out a live-in van. A personal space for myself where I could freely travel and see the world and connect with places.
+
+My desire is to build out this van so that I can travel and share with and inspire others. Whatever I end up doing as a long term job, art, physical crafts, jewelry, construction, whatever it may be- I want to be able to provide others chances to do that as well. I have this image in mind that I am traveling to places and sharing knowledge and resources on cool crafts, getting to meet new people and learn new things, and hopefully tech them some day.
+
+
 ##### Tools and Rituals I feel a connection to:
 - **Various Divinations**:
 	- **Tarot**- I have intention to draw my own tarot eventually, I love cards and have been using a regular playing deck for my tarot for the majority of the time. I have learned a few little card tricks as well, just in general I feel a strong connection to cards / playing cards / suits
